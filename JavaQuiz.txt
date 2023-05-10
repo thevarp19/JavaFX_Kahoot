@@ -1,0 +1,69 @@
+What is the default value of a static integer variable of a class in Java?
+0
+1
+Garbage value
+NaN
+
+What is the multiple inheritance?
+One class inheriting from more super classes
+More classes inheriting from one super class
+More classes inheriting from more super classes
+More classes inheriting from more super classes
+
+Which statement is not true in java language?
+A private member of a class cannot be accessed by the methods of the same class
+A public member of a class can be accessed in all the packages
+A private member of a class cannot be accessed from its derived class
+A private member of a class cannot be accessed from its derived class
+
+To prevent any method from overriding, we declare the method as {blank}.
+Final
+
+One more {blank}.
+Likely
+
+Which of these is a correct way of inheriting class A by class B?
+class B extends A {}
+class B + class A {}
+class B inherits class A {}
+class B extends class A {}
+
+{blank} is wrapping of data into a single unit called class.
+Encapsulation
+
+What is the process of defining a method in a subclass having same name & type signature as a method in its superclass?
+Method overriding
+Method overloading
+Method hiding
+None of the mentioned
+
+Which of these modifiers' means that the subclass cannot see it?
+private
+public
+package
+protected
+
+Where an object of a class get stored?
+Heap
+Disk
+Stack
+File
+
+{blank} refers to the act of representing essential details.
+Abstraction
+
+{blank} is the process in which objects of one class can link and share some common properties from the objects of another class.
+Inheritance
+
+An {blank} is an instance or of a copy of a class.
+Object
+
+A {blank} is blueprint that defines certain characteristics and behavior. It is simply a representation of different types of objects.
+Class
+
+Using which of the following, multiple inheritance in Java can be implemented?
+Interfaces
+Multithreading
+Protected methods
+Private methods
+

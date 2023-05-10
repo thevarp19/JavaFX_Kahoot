@@ -1,0 +1,8 @@
+To allow duplicate elements to be stored in a collection, you need to use a list. A list
+not only can store duplicate elements but also allows the user to specify where they are
+stored. The user can access elements by an index.
+Two types of lists are supported: ArrayList and LinkedList. ArrayList is a
+resizable-array implementation of the List interface. All the methods in ArrayList
+are defined in List. LinkedList is a linked-list implementation of the List interface.
+In addition to implementing the List interface, this class provides the methods for
+retrieving, inserting, and removing elements from both ends of the list.

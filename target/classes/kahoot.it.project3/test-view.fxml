@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane accessibleRole="NODE" prefHeight="450.0" prefWidth="605.0" style="-fx-background-radius: 23;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kahoot.it.project3.QuizMaker">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="70.0" layoutY="307.0" stroke="BLACK" strokeType="INSIDE" width="300.0" />
+      <Rectangle accessibleRole="BUTTON" arcHeight="5.0" arcWidth="5.0" fill="LIME" height="70.0" layoutX="306.0" layoutY="381.0" stroke="BLACK" strokeType="INSIDE" width="300.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="YELLOW" height="70.0" layoutY="381.0" stroke="BLACK" strokeType="INSIDE" width="300.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="BLUE" height="70.0" layoutX="306.0" layoutY="307.0" stroke="BLACK" strokeType="INSIDE" width="300.0" />
+      <RadioButton layoutX="14.0" layoutY="334.0" mnemonicParsing="false" text="RadioButton" />
+      <RadioButton layoutX="14.0" layoutY="400.0" mnemonicParsing="false" text="RadioButton" />
+      <RadioButton layoutX="322.0" layoutY="334.0" mnemonicParsing="false" text=" EFSDA" />
+      <RadioButton layoutX="322.0" layoutY="400.0" mnemonicParsing="false" text="RadioButton" />
+      <ImageView fitHeight="190.0" fitWidth="300.0" layoutX="153.0" layoutY="101.0">
+         <image>
+            <Image url="@../../../img/logo.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="269.0" layoutY="6.0" text="1. Question" textAlignment="CENTER">
+         <font>
+            <Font name="Times New Roman Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="289.0" layoutY="46.0" text="00:00" />
+   </children>
+</AnchorPane>
